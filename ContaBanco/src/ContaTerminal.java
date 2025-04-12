@@ -14,7 +14,7 @@ public class ContaTerminal {
     
     System.out.println("Qual o número de sua agência?");
         String agencia = scan.next();
-
+testes
     System.out.println("Qual o seu saldo?");
         float saldo = scan.nextFloat();
 
